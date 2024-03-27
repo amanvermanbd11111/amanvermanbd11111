@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://amanvermanbd11111.github.io/my_portfolio.github.io/](https://amanvermanbd11111.github.io/my_portfolio.github.io/)
 
-- ⚡ Fun fact **Fun Fact: I can code with my eyes closed... well, almost! 😄👨‍💻 #FlutterMagic**
+- ⚡ Fun fact ** I can code with my eyes closed... well, almost! 😄👨‍💻 #FlutterMagic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
