@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **aamanvermanbd11111@gmail.com**
+- 📫 How to reach me **amanvermanbd11111@gmail.com**
 
 - 📄 Know about my experiences [https://amanvermanbd11111.github.io/my_portfolio.github.io/](https://amanvermanbd11111.github.io/my_portfolio.github.io/)
 
