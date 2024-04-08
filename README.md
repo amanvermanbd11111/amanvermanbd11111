@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js , AWS services**
 
-- 👨‍💻 All of my projects are available at [https://amanvermanbd11111.github.io/my_portfolio.github.io/](https://amanvermanbd11111.github.io/my_portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://amanvermanbd11111.github.io/my_website.github.io/](https://amanvermanbd11111.github.io/my_website.github.io/)
 
 - 💬 Ask me about **Flutter**
 
